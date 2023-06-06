@@ -1,0 +1,10 @@
+.groupChild {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 0;
+  left: 29px;
+  box-sizing: border-box;
+  width: 256px;
+  height: 65px;
+}

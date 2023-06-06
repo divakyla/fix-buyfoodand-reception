@@ -1,0 +1,9 @@
+.groupChild {
+  border: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 174px;
+  height: 78px;
+}

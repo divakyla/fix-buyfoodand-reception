@@ -1,0 +1,9 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-71xl);
+  background-color: var(--color-dodgerblue);
+  width: 157px;
+  height: 90px;
+}

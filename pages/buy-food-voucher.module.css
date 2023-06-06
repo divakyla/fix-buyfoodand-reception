@@ -1,0 +1,218 @@
+.div {
+  position: absolute;
+  top: 97px;
+  left: 580px;
+  font-size: var(--font-size-61xl);
+  text-align: left;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 814px;
+  height: 163px;
+}
+.div1,
+.occ {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  display: inline-block;
+  width: 358.62px;
+  height: 65px;
+  -webkit-text-stroke: 1px #000;
+}
+.div1 {
+  top: 49px;
+  left: 266.04px;
+  font-size: var(--font-size-45xl);
+  width: 492.13px;
+  height: 83px;
+}
+.div2,
+.rectangleGroup {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  width: 841px;
+  height: 163px;
+}
+.div2 {
+  top: 11.9px;
+  left: 21.14px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 80.59px;
+  height: 40.43px;
+  -webkit-text-stroke: 1px #000;
+}
+.rectangleContainer {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 285px;
+  width: 123px;
+  height: 65px;
+}
+.p {
+  margin: 0;
+}
+.txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.b,
+.groupButton {
+  position: absolute;
+}
+.b {
+  top: 8.36px;
+  left: 9.41px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.01em;
+  display: flex;
+  font-family: var(--font-comfortaa);
+  color: var(--color-black);
+  text-align: left;
+  align-items: center;
+  width: 162.77px;
+  height: 146.28px;
+}
+.groupButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 65px;
+  left: 841px;
+  width: 175px;
+  height: 163px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 280px;
+  left: 96px;
+  width: 1016px;
+  height: 228px;
+}
+.buyFoodvoucherInner,
+.groupItem {
+  position: absolute;
+  top: 124px;
+  left: 1161px;
+  width: 174px;
+  height: 78px;
+}
+.groupItem {
+  top: 10.89px;
+  left: 32.73px;
+  width: 93.7px;
+  height: 67.36px;
+}
+.rectangleParent1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 70px;
+  left: 110px;
+  width: 157px;
+  height: 90px;
+}
+.div3,
+.div4 {
+  position: absolute;
+  top: 585px;
+  left: 125px;
+}
+.div4 {
+  left: 356px;
+}
+.div5 {
+  position: relative;
+  display: inline-block;
+  width: 140px;
+  height: 50px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.test2Icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 15px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.parent {
+  width: 140px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: var(--gap-4xs);
+  z-index: 0;
+}
+.test2Icon1 {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.div6 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  height: 50px;
+}
+.component2,
+.div6,
+.test2Parent {
+  position: absolute;
+  width: 140px;
+}
+.test2Parent {
+  margin: 0 !important;
+  top: 60px;
+  left: 0;
+  height: 50px;
+  z-index: 1;
+}
+.component2 {
+  top: 650px;
+  left: 142px;
+  height: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+}
+.buyFoodvoucher {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
